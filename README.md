@@ -32,11 +32,8 @@ This is a web based application developed for health related based website in in
 <img width="960" alt="6" src="https://user-images.githubusercontent.com/111478872/208300421-d9982e1b-d0b8-4c0b-8b17-147eb744ec2c.png">
 <img width="960" alt="8" src="https://user-images.githubusercontent.com/111478872/208300423-fb237732-2454-4263-b6d5-ffb34eeb1cce.png">
 <img width="960" alt="9" src="https://user-images.githubusercontent.com/111478872/208300425-45330e83-d112-45bc-bfeb-48b8ffec60f4.png">
-
-
-
-
-
+<img width="960" alt="201" src="https://user-images.githubusercontent.com/111478872/209394761-6d862d56-e5be-4ab3-b69d-624b9a43991a.png">
+<img width="960" alt="202" src="https://user-images.githubusercontent.com/111478872/209394764-411ba611-32fa-412c-9537-a45e89acd784.png">
 
 
 ## Tech Stack 💻
